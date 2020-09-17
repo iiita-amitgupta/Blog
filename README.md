@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Project is base on Ruby on Rails guide. (Link: https://guides.rubyonrails.org/v5.1.2/getting_started.html#getting-up-and-running)
 
-Things you may want to cover:
+This Project is created for Blogs. By this, we can post an article, comment on those articles and do other basic operation.
 
-* Ruby version
+This Project is Bug free and running smoothly.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This Project is created on Windows Platform.
